@@ -1,0 +1,7 @@
+{
+  "name": "IonicClient",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
