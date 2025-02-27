@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\uploads\\2e9706ef-409c-4153-a3ad-c23db2a14c82.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2e9706ef-409c-4153-a3ad-c23db2a14c82.jpg"
+    },
+    {
+      "Id": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\uploads\\852e7a27-e87f-4e4e-b859-474a4e2d1758.png",
+      "PackagePath": "staticwebassets\\uploads\\852e7a27-e87f-4e4e-b859-474a4e2d1758.png"
+    },
+    {
+      "Id": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\uploads\\9d834039-5b50-4197-8a9a-268c646ec578.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9d834039-5b50-4197-8a9a-268c646ec578.jpg"
+    },
+    {
+      "Id": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\uploads\\be218a75-ff44-403b-a448-02bd23c45b92.jpg",
+      "PackagePath": "staticwebassets\\uploads\\be218a75-ff44-403b-a448-02bd23c45b92.jpg"
+    },
+    {
+      "Id": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\uploads\\c169a4ef-c932-489e-84c2-49b929b161a0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c169a4ef-c932-489e-84c2-49b929b161a0.jpg"
+    },
+    {
+      "Id": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\uploads\\ca11725e-e863-48a3-9d52-0a134761c6d3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ca11725e-e863-48a3-9d52-0a134761c6d3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Server.props",
+      "PackagePath": "build\\Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Server.props",
+      "PackagePath": "buildMultiTargeting\\Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Server.props",
+      "PackagePath": "buildTransitive\\Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

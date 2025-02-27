@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "UvFjU1UR8E97kSiH7ECwzKbPR3BHG6lc66iKGkb6Yv0=",
+  "Source": "Server",
+  "BasePath": "_content/Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Server\\wwwroot",
+      "Source": "Server",
+      "ContentRoot": "D:\\Anul3\\Semestrul1\\Programare pentru Dispozitive Mobile\\Laboratoare\\Server\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
